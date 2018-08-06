@@ -1,6 +1,6 @@
-<?php;
+<?php
+echo "i am here"."<br />";
 for ($x = 0; $x <= 10; $x++) {
-    echo "The number is: $x "."\n";
+    echo "The number is: $x "."<br />";
 } 
-echo "hello test 4";
-?>
+echo "test";
